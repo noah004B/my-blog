@@ -1,5 +1,5 @@
 ---
-title: GridsomeとTyporaでブログを書いてみる
+title: "GridsomeとTyporaでブログを書いてみる"
 date: 2019-08-08
 published: true
 tags: ['vuejs', 'gridsome', 'typora']

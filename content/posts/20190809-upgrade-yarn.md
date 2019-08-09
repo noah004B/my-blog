@@ -1,5 +1,5 @@
 ---
-title: GithubのnpmパッケージのVlunerablility Alertを解決する
+title: "GithubのnpmパッケージのVlunerablility Alertを解決する"
 date: 2019-08-09
 published: true
 tags: ['vuejs', 'yarn', 'npm']

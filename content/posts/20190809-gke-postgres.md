@@ -1,5 +1,5 @@
 ---
-title: GKE
+title: "GKE上に検証用のPosgreSQLコンテナのデプロイする"
 date: 2019-08-09
 published: true
 tags: ['postgres', 'kubernetes', 'gke']
@@ -125,6 +125,8 @@ $ gcloud compute firewall-rules delete test-node-port
 ```
 
 
+
+---
 
 ## 参考情報
 
